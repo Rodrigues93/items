@@ -1,0 +1,4 @@
+Furniture:
+
+- 2 Tables
+- 6 Chairs
