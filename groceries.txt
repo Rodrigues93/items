@@ -1,4 +1,6 @@
 Groceries List:
 
 -Bread
--Bananas
+-Milk
+-Flour
+-Eggs
